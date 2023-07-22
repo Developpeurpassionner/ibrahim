@@ -591,11 +591,28 @@ a:focus {
     padding: 0 60px;
     
 }
-
+#sociaux{
+    display: flex;
+    justify-content: space-evenly;
+    transform: translateY(40px);
+    font-size: 25px;
+}
+.green-color{
+    color: green;
+}
+.bleu-color{
+    color:#0a66c2;
+}
+.skybleu-color{
+    color: #1da1f2;
+}
+.red-color{
+    color: rgb(189, 29, 29);
+}
 .about .about-text p {
     font-size: 20px;
     color: white;
-    transform: translateY(-200px);
+    transform: translateY(10px);
 
 }
 
